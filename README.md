@@ -1,1 +1,1 @@
-RxSwiftのサンプルです。
+RxSwiftを使用してGitHubの一覧を取得するサンプルです。
